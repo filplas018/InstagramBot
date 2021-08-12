@@ -34,7 +34,7 @@ namespace Instabot
             if (loginRequest.Succeeded)
             {
                 Console.WriteLine("LOGGED IN!");
-                SendMessage("kucerova_v");
+                SendMessage("kucerova_v"); //měníš tady
             }
             else
             {
