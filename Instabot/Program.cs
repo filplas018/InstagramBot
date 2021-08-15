@@ -19,8 +19,8 @@ namespace Instabot
         {
             
             user = new UserSessionData();
-            user.UserName = "kocour_endorfin"; //User name
-            user.Password = "Falco77!"; //password
+            user.UserName = "user"; //User name
+            user.Password = "password"; //password
 
             Login();
             
